@@ -71,7 +71,7 @@ function adicionarNumeros(num1: number, num2: number) {
 ````
 *Hierarquia de tipos* 
 
-![image](./TypeAnnotation/hierarquiaDeTiposTS.jpeg)
+![image](hierarquiaDeTiposTS.jpeg)
 
 2) *Boolean*: um dos tipos primitivos do TS que aceita 2 valores: true ou false.
 ````
@@ -189,4 +189,4 @@ function exemploFuncao(mensagem): void {}
 
 **Diferenças entre Null e Undefined:**
 
-![image](./tipoNullUndefined/nullVSundefined.jpeg)
+![image](nullVSundefined.jpeg)
